@@ -6,7 +6,7 @@
 # catalog-version 0.3
 Name:		texlive-snotez
 Version:	0.3
-Release:	7
+Release:	8
 Summary:	Typeset notes, in the margin
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/snotez
